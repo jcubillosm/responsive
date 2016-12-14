@@ -1,0 +1,2 @@
+# responsive
+Main page RWD
